@@ -1,0 +1,2 @@
+# AWS-Computer-Vision-GluonCV
+An overview of Computer Vision (CV), Machine Learning (ML) with Amazon Web Services (AWS), and how to build and train a CV model using the Apache MXNet and GluonCV toolkit. The course discusses artificial neural networks and other deep learning concepts, then walks through how to combine neural network building blocks into complete computer vision models and train them efficiently. 
